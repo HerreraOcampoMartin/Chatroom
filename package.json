@@ -1,0 +1,24 @@
+{
+    "name": "ChatRoom",
+    "version": "1.0.0",
+    "scripts": {
+        "dev": "nodemon index.js"
+    },
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "Fabio",
+    "contributors": [],
+    "dependencies": {
+        "express": "^4.17.1",
+        "moment": "^2.24.0",
+        "socket.io": "^2.3.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.2"
+    }
+}
